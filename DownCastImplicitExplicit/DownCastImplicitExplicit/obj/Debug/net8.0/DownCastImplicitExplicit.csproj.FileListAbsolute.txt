@@ -1,0 +1,14 @@
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\bin\Debug\net8.0\DownCastImplicitExplicit.exe
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\bin\Debug\net8.0\DownCastImplicitExplicit.deps.json
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\bin\Debug\net8.0\DownCastImplicitExplicit.runtimeconfig.json
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\bin\Debug\net8.0\DownCastImplicitExplicit.dll
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\bin\Debug\net8.0\DownCastImplicitExplicit.pdb
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.AssemblyInfo.cs
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.dll
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\refint\DownCastImplicitExplicit.dll
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.pdb
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\DownCastImplicitExplicit.genruntimeconfig.cache
+C:\Users\baloglan\Desktop\C# task\DownCastImplicitExplicit\DownCastImplicitExplicit\obj\Debug\net8.0\ref\DownCastImplicitExplicit.dll
